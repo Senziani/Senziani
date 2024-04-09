@@ -1,7 +1,12 @@
-### my World 🌎
+### Hi 👋, I am Rafael
+
+Formando em ciencias contabeis estudando analise e desenvolvimento de sistemas e guardião da qualidade de software 🗡️🗡️🐞🐞
+ 
 
 
-## Hello My name is Rafael Senziani, WELCOME
+
+
+
 
 - 🔭 I’m currently working on ...  Quality Assurance (QA) 
 - 🌱 I’m currently learning ...  Quality Assurance (QA)
@@ -28,7 +33,7 @@
 <div> 
 <a href="https://www.linkedin.com/in/rafaelsenziani-qa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logo=white"target="_blank"></a>
   
-<!--![Snake animation](https://github.com/Senziani/Senziani/blob/output/github-contribution-grid-snake.svg) -->
+
 </div>
 
 
