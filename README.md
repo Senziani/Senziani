@@ -44,7 +44,7 @@ Formando em ciencias contabeis estudando analise e desenvolvimento de sistemas e
 </div> 
 
 
-##
+## Contato
 <div align="center"> 
 <a href="https://www.linkedin.com/in/rafaelsenziani-qa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logo=white"target="_blank"></a>
   
