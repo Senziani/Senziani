@@ -100,7 +100,7 @@ Plataforma local focada em produtividade e inteligência para QA.
 
 Funcionalidades atuais:
 
-- Integração com :contentReference[oaicite:0]{index=0}
+- Integração com Azure
 - Gestão de casos de teste
 - Controle de evidências
 - Histórico de execuções
