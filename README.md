@@ -17,7 +17,7 @@ Além do trabalho com testes, estou desenvolvendo projetos próprios focados em 
 - 🤖 Estudando aplicações de **IA aplicada à Qualidade de Software**
 - 🏗️ Criando o projeto **QA Vault** (plataforma inteligente para QA)
 - 🎓 Estudando **Análise e Desenvolvimento de Sistemas**
-- 🎯 Focado em evolução para **QA Engineer Pleno/Sênior**
+
 
 ---
 
